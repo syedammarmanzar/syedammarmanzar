@@ -1,151 +1,173 @@
 <div align="center">
 
-# 👋 Hi, I'm **Ammar Shah**
+# 👋 Hi there, I'm Ammar Manzar!
 
-### 💻 Computer Science Student & Developer
+### 💻 Web & Mobile Developer | WordPress | React | Flutter
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-111111?style=for-the-badge\&logo=github)](https://github.com/YOUR_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin)](https://linkedin.com)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge\&logo=instagram)](https://instagram.com)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge\&logo=gmail)](mailto:YOUR_EMAIL)
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME\&label=PROFILE%20VIEWS\&color=DC2626\&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=syedammarmanzar&label=PROFILE%20VIEWS&color=ff4d6d&style=for-the-badge)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-Hey! I'm **Ammar Shah**, a passionate developer interested in
-building modern websites, creative digital projects, and useful
-web applications.
+I'm **Ammar Manzar**, a passionate developer focused on building
+**scalable and performant web and mobile applications that solve
+real-world problems.**
 
-I enjoy learning new technologies and turning ideas into
-real-world projects.
+I enjoy creating modern digital experiences, working with different
+technologies, exploring new tools, and continuously improving my
+development workflow.
 
-* 💻 **Focus:** Web Development
-* 🚀 **Currently Learning:** JavaScript & Modern Web Technologies
-* 🎨 **Interest:** Creative Websites & UI Design
-* 🎯 **Goal:** Become a professional Full Stack Developer
-
-> *"Keep learning. Keep building. Keep improving."*
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Languages
-
-![Languages](https://skillicons.dev/icons?i=html,css,js,python\&theme=dark)
-
-### 🎨 Frontend
-
-![Frontend](https://skillicons.dev/icons?i=html,css,js\&theme=dark)
-
-### ⚙️ Tools
-
-![Tools](https://skillicons.dev/icons?i=git,github,vscode,figma\&theme=dark)
+- 💻 Passionate about Web & Mobile Development
+- 🚀 Focused on scalable and performant applications
+- 🧠 Interested in modern development technologies
+- 🤖 Uses AI tools daily for coding, research, content drafts and productivity
+- 🔎 Interested in SEO, Analytics and website optimization
+- 🛠️ Always exploring and testing new tools and technologies
 
 ---
 
-## 🚀 Featured Projects
+# 🛠️ Tech Stack & Skills
 
-### 🌐 Fancy Text Generator
+## 🌐 Web Development
 
-A creative web tool for generating stylish text, symbols and
-social-media friendly text.
-
-**Technologies:** `HTML` `CSS` `JavaScript`
-
----
-
-### 🎨 Creative Web Projects
-
-Modern and attractive web projects focused on clean UI,
-animations and user-friendly experiences.
-
-**Technologies:** `HTML` `CSS` `JavaScript`
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
-## 📊 GitHub Analytics
+## 🔎 SEO & Analytics
+
+![Yoast SEO](https://img.shields.io/badge/Yoast_SEO-9B59B6?style=for-the-badge&logo=yoast&logoColor=white)
+![Rank Math](https://img.shields.io/badge/Rank_Math-0073AA?style=for-the-badge&logo=wordpress&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![Google Search Console](https://img.shields.io/badge/Search_Console-4585F4?style=for-the-badge&logo=google&logoColor=white)
+
+### SEO Skills
+
+- 🔍 Keyword Research
+- 📄 On-Page Optimization
+- 📈 Google Analytics
+- 🔎 Google Search Console
+- ⚡ Website Optimization
+- 🧩 Yoast SEO
+- 🧩 Rank Math
+
+---
+
+## 🗄️ Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+---
+
+## 🤖 AI Tools & Productivity
+
+I use AI tools daily to improve my development and productivity workflow.
+
+- 💻 Coding assistance
+- ✍️ Content drafts
+- 🔎 Research
+- ⚡ Repetitive task automation
+- 🧪 Testing new AI tools
+- 🚀 Exploring new AI-powered workflows
+
+> I continuously test and adopt useful AI tools as they become available.
+
+---
+
+## 🧰 Other Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
+
+---
+
+# 🚀 Featured Projects
+
+## 🍛 Rashid Biryani
+
+A web project focused on creating a modern digital experience
+for a food/business platform.
+
+**Technology:** HTML
+
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/syedammarmanzar/rashidbiryani)
+
+---
+
+## 🏢 CRESCENT ENTERPRISES
+
+A web project developed for **CRESCENT ENTERPRISES**.
+
+**Technology:** HTML
+
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/syedammarmanzar/CRESCENT-ENTERPRISES)
+
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats-fast.vercel.app/api?username=YOUR_USERNAME&show_icons=true&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&icon_color=ef4444" />
+<img src="https://github-readme-stats.vercel.app/api?username=syedammarmanzar&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff4d6d&icon_color=ff4d6d&text_color=ffffff&rank_icon=github" />
 
 <br><br>
 
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6" />
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=blood&background=0a0a0a&ring=ef4444&fire=ef4444" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedammarmanzar&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff4d6d&text_color=ffffff" />
 
 </div>
 
 ---
 
-## 🧠 Coding Journey
-
-I'm continuously improving my programming skills by:
-
-* 📚 Learning new technologies
-* 💻 Building projects
-* 🧩 Practicing problem solving
-* 🚀 Exploring modern web development
-* 🔥 Improving my GitHub portfolio
-
----
-
-## 📈 GitHub Contribution Journey
+# 🔥 GitHub Streak
 
 <div align="center">
 
-![Contribution Snake](https://raw.githubusercontent.com/platane/snk/output/github-contributiongrid-snake-dark.svg)
+<img src="https://streak-stats.demolab.com?user=syedammarmanzar&theme=dark&hide_border=true&background=0D1117&ring=FF4D6D&fire=FF4D6D&currStreakLabel=FF4D6D" />
 
 </div>
 
 ---
 
-## 🎯 My Goals
+# 📈 GitHub Contribution Journey
+
+<div align="center">
+
+![GitHub Contribution Snake](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+# 💻 What I Work With
 
 ```text
-✓ Learn Full Stack Development
-✓ Build Real-World Projects
-✓ Improve Programming Skills
-✓ Learn Advanced JavaScript
-✓ Contribute to Open Source
-✓ Build a Professional Developer Portfolio
-```
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge\&logo=github)](https://github.com/YOUR_USERNAME)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin)](https://linkedin.com)
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram)](https://instagram.com)
-
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail)](mailto:YOUR_EMAIL)
-
-</div>
-
----
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-**If you like my work, consider giving my repositories a ⭐**
-
-<br>
-
-![Footer](https://capsule-render.vercel.app/api?type=waving\&color=DC2626\&height=120\&section=footer)
-
-</div>
+Web Development
+      ↓
+WordPress • HTML • CSS • JavaScript
+      ↓
+React.js • Tailwind CSS • Bootstrap
+      ↓
+Flutter • .NET • Python
+      ↓
+MySQL • MongoDB • Firebase
+      ↓
+SEO • Analytics • AI Tools
+      ↓
+Git • GitHub • Jira • Canva
